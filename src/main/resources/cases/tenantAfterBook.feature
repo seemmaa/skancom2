@@ -28,4 +28,3 @@ Feature: tenant info after booking
     Then display house info and owner contact info
    
 
-  
