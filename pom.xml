@@ -45,8 +45,9 @@
         </plugin>
     </plugins>
 </build>
- <properties>
+  <properties>
   <sonar.organization>softwareorganiz</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
+ 
 </project>
